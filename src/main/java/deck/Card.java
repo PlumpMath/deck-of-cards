@@ -54,6 +54,7 @@ public class Card {
         private static Function<CardBuilder, Optional<String>> newRule(Predicate<CardBuilder> p, String msg) {
             return o -> p.test(o)? Optional.<String>empty() : Optional.of(msg);
         }
+
         private Optional<SuitType> suit;
         private Optional<Integer> value;
 
