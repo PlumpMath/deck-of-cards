@@ -1,5 +1,5 @@
 
-# deck of cards
+# Deck of Cards
 
 [![Build Status](https://secure.travis-ci.org/scotthaleen/deck-of-cards.png?branch=master)](http://travis-ci.org/scotthaleen/deck-of-cards)
 
