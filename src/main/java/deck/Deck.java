@@ -56,9 +56,6 @@ public class Deck {
 
     /**
      * Shuffle the deck at current state of cards
-     *
-     * TODO: shuffle return new Deck rather than PLoP
-     *   Allows for 'reset' deck feature
      */
     public void shuffle() {
         final Random random = new Random();
