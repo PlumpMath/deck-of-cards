@@ -23,7 +23,7 @@ gradle build
 java -cp  .:build/libs/deck-of-cards.jar deck.Main
 ```
 
-**with gradle**
+**With gradle**
 
 ```
 gradle runMain
